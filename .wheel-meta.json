@@ -1,0 +1,19 @@
+{
+  "wheel_id": 375,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-com-103",
+  "project": "home-loan-brokers-north-brisbane-comparison-18c2f2c9b1f0d49d7b5",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-com-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "home loan brokers north brisbane comparison",
+  "intended_url": "http://home-loan-brokers-north-brisbane-comparison-18c2f2c9b1f0d49d7b5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "03362a94d90d3a9f",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-north-brisbane-455027f7c271de2c88ee6608743/",
+      "anchor": "home loan brokers north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
